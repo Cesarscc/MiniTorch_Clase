@@ -11,3 +11,5 @@
 ```
 python run_tests.py
 ```
+
+![visom](https://github.com/Cesarscc/MiniTorch_Clase/blob/main/Module-0/task_05.png)
